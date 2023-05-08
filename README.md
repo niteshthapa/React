@@ -11,7 +11,7 @@ handle forms using hooks
 5)Connect the form elements to the state object: Connect the form elements to the state object by setting their values and onChange handlers.</br>
 6)That's it! Now you have a basic form that can handle user input and submit data using React hooks. Again, there are many variations and additional
 features you can add, such as validation, error handling, and conditional rendering, but this should give you a good starting point for handling forms
-in React with hooks.</br
+in React with hooks.</br/
 [Demo](https://stackblitz.com/edit/react-fbjbuv?file=src%2FApp.js,public%2Findex.html,src%2FForm.js).
 
 
